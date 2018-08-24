@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="android-extensions-1.0.4">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/QKSMS/build/intermediates/exploded-aar/com.pushbullet/android-extensions/1.0.4/res" />
+      <root url="jar://$PROJECT_DIR$/QKSMS/build/intermediates/exploded-aar/com.pushbullet/android-extensions/1.0.4/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.pushbullet/android-extensions/1.0.4/39672457cd15153b6e277ac201d0b2eac2c6f4fb/android-extensions-1.0.4-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

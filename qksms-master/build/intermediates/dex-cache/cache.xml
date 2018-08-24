@@ -1,0 +1,229 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="D:\USER\Desktop\104_spring\Software Studio\Final_Project\qksms-master\QKSMS\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\22.2.1\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="3abb4b88f5a8a0584a9b01d3170d7165f12f8588">
+        <dex dex="D:\USER\Desktop\104_spring\Software Studio\Final_Project\qksms-master\QKSMS\build\intermediates\transforms\dex\noAnalytics\debug\folders\1000\10\com.android.support-recyclerview-v7-22.2.1_cbf50e0827e0ab406d55fe0241d915ced8223101\classes.dex" />
+    </item>
+    <item
+        jar="D:\USER\.gradle\caches\modules-2\files-2.1\com.fasterxml.jackson.core\jackson-core\2.3.3\7d8c5d79cc99995e21e6f955857312d8409f02a1\jackson-core-2.3.3.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="7d8c5d79cc99995e21e6f955857312d8409f02a1">
+        <dex dex="D:\USER\Desktop\104_spring\Software Studio\Final_Project\qksms-master\QKSMS\build\intermediates\transforms\dex\noAnalytics\debug\folders\1000\10\jackson-core-2.3.3_ed975bd3381c04c28b18490bacea08eb28ad985d\classes.dex" />
+    </item>
+    <item
+        jar="D:\USER\Desktop\104_spring\Software Studio\Final_Project\qksms-master\QKSMS\build\intermediates\exploded-aar\com.android.support\support-v13\22.2.1\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="c4caf832116bca1f2e140bf1fb600e2edd190837">
+        <dex dex="D:\USER\Desktop\104_spring\Software Studio\Final_Project\qksms-master\QKSMS\build\intermediates\transforms\dex\noAnalytics\debug\folders\1000\10\com.android.support-support-v13-22.2.1_f3e89d3b03a741ab220fe9228298c81b9bc897ce\classes.dex" />
+    </item>
+    <item
+        jar="D:\USER\.gradle\caches\modules-2\files-2.1\org.freemarker\freemarker\2.3.20\5ad6bea46b5af666d88c260c8acc6a03408723c8\freemarker-2.3.20.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="5ad6bea46b5af666d88c260c8acc6a03408723c8">
+        <dex dex="D:\USER\Desktop\104_spring\Software Studio\Final_Project\qksms-master\QKSMS\build\intermediates\transforms\dex\noAnalytics\debug\folders\1000\10\freemarker-2.3.20_f19ad324377f6322fa7f991b9c8048063953c0fc\classes.dex" />
+    </item>
+    <item
+        jar="D:\USER\Desktop\104_spring\Software Studio\Final_Project\qksms-master\QKSMS\build\intermediates\exploded-aar\com.pushbullet\android-extensions\1.0.4\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="d1590524e80e7dad7f7579a68d903173a8999889">
+        <dex dex="D:\USER\Desktop\104_spring\Software Studio\Final_Project\qksms-master\QKSMS\build\intermediates\transforms\dex\noAnalytics\debug\folders\1000\10\com.pushbullet-android-extensions-1.0.4_409a3257999ce75fa2f2c66960fb88d08369a578\classes.dex" />
+    </item>
+    <item
+        jar="D:\USER\.gradle\caches\modules-2\files-2.1\com.mcxiaoke.volley\library\1.0.19\a8f23f65fc1e522ee4a1a697ee569901a46741fa\library-1.0.19.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="a8f23f65fc1e522ee4a1a697ee569901a46741fa">
+        <dex dex="D:\USER\Desktop\104_spring\Software Studio\Final_Project\qksms-master\QKSMS\build\intermediates\transforms\dex\noAnalytics\debug\folders\1000\10\library-1.0.19_734677950fea666d1e25eb9a6954d9c46fc4e9bc\classes.dex" />
+    </item>
+    <item
+        jar="D:\USER\.gradle\caches\modules-2\files-2.1\com.nineoldandroids\library\2.4.0\e9b63380f3a242dbdbf103a2355ad7e43bad17cb\library-2.4.0.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="e9b63380f3a242dbdbf103a2355ad7e43bad17cb">
+        <dex dex="D:\USER\Desktop\104_spring\Software Studio\Final_Project\qksms-master\QKSMS\build\intermediates\transforms\dex\noAnalytics\debug\folders\1000\10\library-2.4.0_ae18d4f7d8242ac7f6bc2151cbdf76131eb89cde\classes.dex" />
+    </item>
+    <item
+        jar="D:\USER\Desktop\104_spring\Software Studio\Final_Project\qksms-master\QKSMS\build\intermediates\exploded-aar\com.android.support\support-v13\22.2.1\jars\libs\internal_impl-22.2.1.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="6fc4c7067459e8d69e1bbcb3a8973cdd84d5d87b">
+        <dex dex="D:\USER\Desktop\104_spring\Software Studio\Final_Project\qksms-master\QKSMS\build\intermediates\transforms\dex\noAnalytics\debug\folders\1000\10\internal_impl-22.2.1_972566d1f93a6e6724ccfd0943a771bd31aeb8b5\classes.dex" />
+    </item>
+    <item
+        jar="D:\USER\Desktop\104_spring\Software Studio\Final_Project\qksms-master\QKSMS\build\intermediates\incremental-classes\noAnalytics\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="2273f4cc43c48fc60272f18e50725b98b5676411">
+        <dex dex="D:\USER\Desktop\104_spring\Software Studio\Final_Project\qksms-master\QKSMS\build\intermediates\transforms\dex\noAnalytics\debug\folders\1000\10\instant-run-bootstrap_3fd75888dd6556130a00dc5e89f33c5d08835add\classes.dex" />
+    </item>
+    <item
+        jar="D:\USER\.gradle\caches\modules-2\files-2.1\com.koushikdutta.ion\ion\1.1.7\32557ac9789fb0e5be4215132e9728d0996b46d4\ion-1.1.7.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="32557ac9789fb0e5be4215132e9728d0996b46d4">
+        <dex dex="D:\USER\Desktop\104_spring\Software Studio\Final_Project\qksms-master\QKSMS\build\intermediates\transforms\dex\noAnalytics\debug\folders\1000\10\ion-1.1.7_c34dc45ae79b9b77958b954af3c5557331495566\classes.dex" />
+    </item>
+    <item
+        jar="D:\USER\.gradle\caches\modules-2\files-2.1\org.jsoup\jsoup\1.7.3\92568d7167ce1bf9eb1fd815b022d5a2c113547a\jsoup-1.7.3.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="92568d7167ce1bf9eb1fd815b022d5a2c113547a">
+        <dex dex="D:\USER\Desktop\104_spring\Software Studio\Final_Project\qksms-master\QKSMS\build\intermediates\transforms\dex\noAnalytics\debug\folders\1000\10\jsoup-1.7.3_a21f8ee08ea28433d19dec225b17cdb3cb33de74\classes.dex" />
+    </item>
+    <item
+        jar="D:\USER\AppData\Local\Android\Sdk\extras\android\m2repository\com\android\support\support-annotations\22.2.1\support-annotations-22.2.1.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="61a0ff5c29295ec56d7e0bd3d25d95dbf71b4b2b">
+        <dex dex="D:\USER\Desktop\104_spring\Software Studio\Final_Project\qksms-master\QKSMS\build\intermediates\transforms\dex\noAnalytics\debug\folders\1000\10\support-annotations-22.2.1_3e6e62a48551df0b044d051a0f91f4f9dcd8a777\classes.dex" />
+    </item>
+    <item
+        jar="D:\USER\Desktop\104_spring\Software Studio\Final_Project\qksms-master\QKSMS\build\intermediates\exploded-aar\com.android.support\multidex\1.0.1\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="78ea232052df889856dcb7b7b542707c89bb3bfb">
+        <dex dex="D:\USER\Desktop\104_spring\Software Studio\Final_Project\qksms-master\QKSMS\build\intermediates\transforms\dex\noAnalytics\debug\folders\1000\10\com.android.support-multidex-1.0.1_2f9a653a9c1288019e9a5dfc496407e0cc7aed79\classes.dex" />
+    </item>
+    <item
+        jar="D:\USER\Desktop\104_spring\Software Studio\Final_Project\qksms-master\QKSMS\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.1\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="f8efd0096475e0daf054267b61544e10dc776503">
+        <dex dex="D:\USER\Desktop\104_spring\Software Studio\Final_Project\qksms-master\QKSMS\build\intermediates\transforms\dex\noAnalytics\debug\folders\1000\10\com.android.support-support-v4-22.2.1_5901c0a9191aa318f8b7608cadf34088aa8ac0ac\classes.dex" />
+    </item>
+    <item
+        jar="D:\USER\Desktop\104_spring\Software Studio\Final_Project\qksms-master\QKSMS\build\intermediates\incremental-runtime-classes\noAnalytics\debug\instant-run.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="0e70bc3ad834e7c2f65e3b43abdbbf2133e3281a">
+        <dex dex="D:\USER\Desktop\104_spring\Software Studio\Final_Project\qksms-master\QKSMS\build\intermediates\transforms\dex\noAnalytics\debug\folders\1000\10\instant-run_803b385ca6f715c870383d881de23ef574d8f768\classes.dex" />
+    </item>
+    <item
+        jar="D:\USER\.gradle\caches\modules-2\files-2.1\com.googlecode.libphonenumber\libphonenumber\6.2\3ddc8255a39cc0505a6a34c56c9ec256833d2239\libphonenumber-6.2.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="3ddc8255a39cc0505a6a34c56c9ec256833d2239">
+        <dex dex="D:\USER\Desktop\104_spring\Software Studio\Final_Project\qksms-master\QKSMS\build\intermediates\transforms\dex\noAnalytics\debug\folders\1000\10\libphonenumber-6.2_54a6bff84d82a6cec6ccbf2ae17c33bd1a1db878\classes.dex" />
+    </item>
+    <item
+        jar="D:\USER\Desktop\104_spring\Software Studio\Final_Project\qksms-master\QKSMS\build\intermediates\exploded-aar\com.melnykov\floatingactionbutton\1.3.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="8c6ebb7d087d1a30bf84356bd2aecf85309fc024">
+        <dex dex="D:\USER\Desktop\104_spring\Software Studio\Final_Project\qksms-master\QKSMS\build\intermediates\transforms\dex\noAnalytics\debug\folders\1000\10\com.melnykov-floatingactionbutton-1.3.0_b07058e7ec85e46c8f4c6b680bd8133d49a7084f\classes.dex" />
+    </item>
+    <item
+        jar="D:\USER\.gradle\caches\modules-2\files-2.1\com.vdurmont\emoji-java\1.1.1\5ffc576454e4b9ba62d9a9991cff413a03c60ef3\emoji-java-1.1.1.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="5ffc576454e4b9ba62d9a9991cff413a03c60ef3">
+        <dex dex="D:\USER\Desktop\104_spring\Software Studio\Final_Project\qksms-master\QKSMS\build\intermediates\transforms\dex\noAnalytics\debug\folders\1000\10\emoji-java-1.1.1_3bb4fb8e261afe9cfc9332725ab4703043c61055\classes.dex" />
+    </item>
+    <item
+        jar="D:\USER\Desktop\104_spring\Software Studio\Final_Project\qksms-master\QKSMS\build\intermediates\exploded-aar\com.github.lzyzsd\circleprogress\1.1.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="e6f9fb0d2ea982d656d6dca785a9097659395874">
+        <dex dex="D:\USER\Desktop\104_spring\Software Studio\Final_Project\qksms-master\QKSMS\build\intermediates\transforms\dex\noAnalytics\debug\folders\1000\10\com.github.lzyzsd-circleprogress-1.1.0_6ca6c9a546924de7ebdac9dd5f951dc7a7ba18cf\classes.dex" />
+    </item>
+    <item
+        jar="D:\USER\.gradle\caches\modules-2\files-2.1\com.jakewharton\butterknife\7.0.1\d5d13ea991eab0252e3710e5df3d6a9d4b21d461\butterknife-7.0.1.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="d5d13ea991eab0252e3710e5df3d6a9d4b21d461">
+        <dex dex="D:\USER\Desktop\104_spring\Software Studio\Final_Project\qksms-master\QKSMS\build\intermediates\transforms\dex\noAnalytics\debug\folders\1000\10\butterknife-7.0.1_3b2ebbdc84d41b3a68e285fbb459c18cd71ec742\classes.dex" />
+    </item>
+    <item
+        jar="D:\USER\.gradle\caches\modules-2\files-2.1\com.google.code.gson\gson\2.4\695b63d702f505b9b916e02272e3b6381bade7f\gson-2.4.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="0695b63d702f505b9b916e02272e3b6381bade7f">
+        <dex dex="D:\USER\Desktop\104_spring\Software Studio\Final_Project\qksms-master\QKSMS\build\intermediates\transforms\dex\noAnalytics\debug\folders\1000\10\gson-2.4_89dfd967465b504fa72d2913e3595ba66cd30729\classes.dex" />
+    </item>
+    <item
+        jar="D:\USER\.gradle\caches\modules-2\files-2.1\frankiesardo\icepick\3.2.0\5ab94f3bba3f9315532eb1ca5547d120c4f71dae\icepick-3.2.0.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="5ab94f3bba3f9315532eb1ca5547d120c4f71dae">
+        <dex dex="D:\USER\Desktop\104_spring\Software Studio\Final_Project\qksms-master\QKSMS\build\intermediates\transforms\dex\noAnalytics\debug\folders\1000\10\icepick-3.2.0_ac2b2540d6a4f870412bde3b26af98452ee63070\classes.dex" />
+    </item>
+    <item
+        jar="D:\USER\Desktop\104_spring\Software Studio\Final_Project\qksms-master\QKSMS\build\intermediates\exploded-aar\com.klinkerapps\android-chips\1.0.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="b0a23c2b680a18da1bb666492b87b432e8a7a766">
+        <dex dex="D:\USER\Desktop\104_spring\Software Studio\Final_Project\qksms-master\QKSMS\build\intermediates\transforms\dex\noAnalytics\debug\folders\1000\10\com.klinkerapps-android-chips-1.0.0_6bceaada121dee268876cf52e13d83a742035c0e\classes.dex" />
+    </item>
+    <item
+        jar="D:\USER\Desktop\104_spring\Software Studio\Final_Project\qksms-master\QKSMS\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.1\jars\libs\internal_impl-22.2.1.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="c471eaaba13ff64f6e0383d1c30a9cdc9a97efeb">
+        <dex dex="D:\USER\Desktop\104_spring\Software Studio\Final_Project\qksms-master\QKSMS\build\intermediates\transforms\dex\noAnalytics\debug\folders\1000\10\internal_impl-22.2.1_f92a3dab1110f050808f2c77db93e94a9c541bfd\classes.dex" />
+    </item>
+    <item
+        jar="D:\USER\Desktop\104_spring\Software Studio\Final_Project\qksms-master\QKSMS\build\intermediates\exploded-aar\com.nispok\snackbar\2.10.6\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="6d1edea3cbe69b54021aaeb32e43531d83732933">
+        <dex dex="D:\USER\Desktop\104_spring\Software Studio\Final_Project\qksms-master\QKSMS\build\intermediates\transforms\dex\noAnalytics\debug\folders\1000\10\com.nispok-snackbar-2.10.6_38235d1f661acc8d503b22585a62da517c4be1b8\classes.dex" />
+    </item>
+    <item
+        jar="D:\USER\Desktop\104_spring\Software Studio\Final_Project\qksms-master\QKSMS\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.2.1\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="4486e953d1f35f8ccab098b1dd67146366d5f731">
+        <dex dex="D:\USER\Desktop\104_spring\Software Studio\Final_Project\qksms-master\QKSMS\build\intermediates\transforms\dex\noAnalytics\debug\folders\1000\10\com.android.support-appcompat-v7-22.2.1_d623c410ebdc2f99ebcd53093cd35fe0a46a6531\classes.dex" />
+    </item>
+    <item
+        jar="D:\USER\.gradle\caches\modules-2\files-2.1\com.koushikdutta.async\androidasync\1.1.6\7ed2f65ce1d88cc22be93ca60178d18728a28b55\androidasync-1.1.6.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="7ed2f65ce1d88cc22be93ca60178d18728a28b55">
+        <dex dex="D:\USER\Desktop\104_spring\Software Studio\Final_Project\qksms-master\QKSMS\build\intermediates\transforms\dex\noAnalytics\debug\folders\1000\10\androidasync-1.1.6_09baa40154f527f91167e498b427a184919cd450\classes.dex" />
+    </item>
+    <item
+        jar="D:\USER\Desktop\104_spring\Software Studio\Final_Project\qksms-master\QKSMS\build\intermediates\exploded-aar\me.leolin\ShortcutBadger\1.1.1\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="e367866bb29f82d7c8d332c22dd3d45f3b6dd096">
+        <dex dex="D:\USER\Desktop\104_spring\Software Studio\Final_Project\qksms-master\QKSMS\build\intermediates\transforms\dex\noAnalytics\debug\folders\1000\10\me.leolin-ShortcutBadger-1.1.1_0dfbcae7821437c24af7d47ee2b55132c419d266\classes.dex" />
+    </item>
+    <item
+        jar="D:\USER\Desktop\104_spring\Software Studio\Final_Project\qksms-master\QKSMS\build\intermediates\exploded-aar\org.ligi\snackengage\0.4\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="e3087e81d17ece98726f3f8aaf3e2a83acfc52f7">
+        <dex dex="D:\USER\Desktop\104_spring\Software Studio\Final_Project\qksms-master\QKSMS\build\intermediates\transforms\dex\noAnalytics\debug\folders\1000\10\org.ligi-snackengage-0.4_e2e23159a203c2af9460934b8ff0159e721a97ea\classes.dex" />
+    </item>
+    <item
+        jar="D:\USER\.gradle\caches\modules-2\files-2.1\com.googlecode.ez-vcard\ez-vcard\0.9.6\5ced3b1423487d3fdf7270715522326a941a9f1a\ez-vcard-0.9.6.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="5ced3b1423487d3fdf7270715522326a941a9f1a">
+        <dex dex="D:\USER\Desktop\104_spring\Software Studio\Final_Project\qksms-master\QKSMS\build\intermediates\transforms\dex\noAnalytics\debug\folders\1000\10\ez-vcard-0.9.6_8a87457be4aa4b19e587bcab8829dd1625aeddfc\classes.dex" />
+    </item>
+    <item
+        jar="D:\USER\Desktop\104_spring\Software Studio\Final_Project\qksms-master\QKSMS\build\intermediates\exploded-aar\com.squareup.leakcanary\leakcanary-android-no-op\1.3.1\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="f12b73a85d00136c8180f7763334beb9cb3f4d49">
+        <dex dex="D:\USER\Desktop\104_spring\Software Studio\Final_Project\qksms-master\QKSMS\build\intermediates\transforms\dex\noAnalytics\debug\folders\1000\10\com.squareup.leakcanary-leakcanary-android-no-op-1.3.1_8d31a1080ca0a44d187e7cc2ac7a47131bce184c\classes.dex" />
+    </item>
+    <item
+        jar="D:\USER\Desktop\104_spring\Software Studio\Final_Project\qksms-master\QKSMS\build\intermediates\exploded-aar\com.android.support\design\22.2.1\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="1821601ddbec5ff125653097812823388700af74">
+        <dex dex="D:\USER\Desktop\104_spring\Software Studio\Final_Project\qksms-master\QKSMS\build\intermediates\transforms\dex\noAnalytics\debug\folders\1000\10\com.android.support-design-22.2.1_187ea5c7cfc30453bda61196892af2e218c61102\classes.dex" />
+    </item>
+
+</items>

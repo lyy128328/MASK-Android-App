@@ -1,0 +1,38 @@
+[
+    {
+        "merged": "D:\\USER\\Desktop\\104_spring\\Software Studio\\Final_Project\\qksms-master\\QKSMS\\build\\intermediates\\res\\merged\\noAnalytics\\debug\\menu\\conversations_selection.xml",
+        "source": "D:\\USER\\Desktop\\104_spring\\Software Studio\\Final_Project\\qksms-master\\QKSMS\\src\\main\\res\\menu\\conversations_selection.xml"
+    },
+    {
+        "merged": "D:\\USER\\Desktop\\104_spring\\Software Studio\\Final_Project\\qksms-master\\QKSMS\\build\\intermediates\\res\\merged\\noAnalytics\\debug\\menu\\conversation.xml",
+        "source": "D:\\USER\\Desktop\\104_spring\\Software Studio\\Final_Project\\qksms-master\\QKSMS\\src\\main\\res\\menu\\conversation.xml"
+    },
+    {
+        "merged": "D:\\USER\\Desktop\\104_spring\\Software Studio\\Final_Project\\qksms-master\\QKSMS\\build\\intermediates\\res\\merged\\noAnalytics\\debug\\menu\\settings.xml",
+        "source": "D:\\USER\\Desktop\\104_spring\\Software Studio\\Final_Project\\qksms-master\\QKSMS\\src\\main\\res\\menu\\settings.xml"
+    },
+    {
+        "merged": "D:\\USER\\Desktop\\104_spring\\Software Studio\\Final_Project\\qksms-master\\QKSMS\\build\\intermediates\\res\\merged\\noAnalytics\\debug\\menu\\compose.xml",
+        "source": "D:\\USER\\Desktop\\104_spring\\Software Studio\\Final_Project\\qksms-master\\QKSMS\\src\\main\\res\\menu\\compose.xml"
+    },
+    {
+        "merged": "D:\\USER\\Desktop\\104_spring\\Software Studio\\Final_Project\\qksms-master\\QKSMS\\build\\intermediates\\res\\merged\\noAnalytics\\debug\\menu\\qkreply.xml",
+        "source": "D:\\USER\\Desktop\\104_spring\\Software Studio\\Final_Project\\qksms-master\\QKSMS\\src\\main\\res\\menu\\qkreply.xml"
+    },
+    {
+        "merged": "D:\\USER\\Desktop\\104_spring\\Software Studio\\Final_Project\\qksms-master\\QKSMS\\build\\intermediates\\res\\merged\\noAnalytics\\debug\\menu\\search.xml",
+        "source": "D:\\USER\\Desktop\\104_spring\\Software Studio\\Final_Project\\qksms-master\\QKSMS\\src\\main\\res\\menu\\search.xml"
+    },
+    {
+        "merged": "D:\\USER\\Desktop\\104_spring\\Software Studio\\Final_Project\\qksms-master\\QKSMS\\build\\intermediates\\res\\merged\\noAnalytics\\debug\\menu\\conversations.xml",
+        "source": "D:\\USER\\Desktop\\104_spring\\Software Studio\\Final_Project\\qksms-master\\QKSMS\\src\\main\\res\\menu\\conversations.xml"
+    },
+    {
+        "merged": "D:\\USER\\Desktop\\104_spring\\Software Studio\\Final_Project\\qksms-master\\QKSMS\\build\\intermediates\\res\\merged\\noAnalytics\\debug\\menu\\changelog.xml",
+        "source": "D:\\USER\\Desktop\\104_spring\\Software Studio\\Final_Project\\qksms-master\\QKSMS\\src\\main\\res\\menu\\changelog.xml"
+    },
+    {
+        "merged": "D:\\USER\\Desktop\\104_spring\\Software Studio\\Final_Project\\qksms-master\\QKSMS\\build\\intermediates\\res\\merged\\noAnalytics\\debug\\menu\\message_picker.xml",
+        "source": "D:\\USER\\Desktop\\104_spring\\Software Studio\\Final_Project\\qksms-master\\QKSMS\\src\\main\\res\\menu\\message_picker.xml"
+    }
+]

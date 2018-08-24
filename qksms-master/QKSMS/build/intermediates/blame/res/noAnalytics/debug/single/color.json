@@ -1,0 +1,46 @@
+[
+    {
+        "merged": "D:\\USER\\Desktop\\104_spring\\Software Studio\\Final_Project\\qksms-master\\QKSMS\\build\\intermediates\\res\\merged\\noAnalytics\\debug\\color\\abc_primary_text_disable_only_material_light.xml",
+        "source": "D:\\USER\\Desktop\\104_spring\\Software Studio\\Final_Project\\qksms-master\\QKSMS\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\color\\abc_primary_text_disable_only_material_light.xml"
+    },
+    {
+        "merged": "D:\\USER\\Desktop\\104_spring\\Software Studio\\Final_Project\\qksms-master\\QKSMS\\build\\intermediates\\res\\merged\\noAnalytics\\debug\\color\\abc_primary_text_material_dark.xml",
+        "source": "D:\\USER\\Desktop\\104_spring\\Software Studio\\Final_Project\\qksms-master\\QKSMS\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\color\\abc_primary_text_material_dark.xml"
+    },
+    {
+        "merged": "D:\\USER\\Desktop\\104_spring\\Software Studio\\Final_Project\\qksms-master\\QKSMS\\build\\intermediates\\res\\merged\\noAnalytics\\debug\\color\\abc_primary_text_disable_only_material_dark.xml",
+        "source": "D:\\USER\\Desktop\\104_spring\\Software Studio\\Final_Project\\qksms-master\\QKSMS\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\color\\abc_primary_text_disable_only_material_dark.xml"
+    },
+    {
+        "merged": "D:\\USER\\Desktop\\104_spring\\Software Studio\\Final_Project\\qksms-master\\QKSMS\\build\\intermediates\\res\\merged\\noAnalytics\\debug\\color\\abc_search_url_text.xml",
+        "source": "D:\\USER\\Desktop\\104_spring\\Software Studio\\Final_Project\\qksms-master\\QKSMS\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\color\\abc_search_url_text.xml"
+    },
+    {
+        "merged": "D:\\USER\\Desktop\\104_spring\\Software Studio\\Final_Project\\qksms-master\\QKSMS\\build\\intermediates\\res\\merged\\noAnalytics\\debug\\color\\abc_secondary_text_material_light.xml",
+        "source": "D:\\USER\\Desktop\\104_spring\\Software Studio\\Final_Project\\qksms-master\\QKSMS\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\color\\abc_secondary_text_material_light.xml"
+    },
+    {
+        "merged": "D:\\USER\\Desktop\\104_spring\\Software Studio\\Final_Project\\qksms-master\\QKSMS\\build\\intermediates\\res\\merged\\noAnalytics\\debug\\color\\text_primary_dark.xml",
+        "source": "D:\\USER\\Desktop\\104_spring\\Software Studio\\Final_Project\\qksms-master\\QKSMS\\src\\main\\res\\color\\text_primary_dark.xml"
+    },
+    {
+        "merged": "D:\\USER\\Desktop\\104_spring\\Software Studio\\Final_Project\\qksms-master\\QKSMS\\build\\intermediates\\res\\merged\\noAnalytics\\debug\\color\\switch_thumb_material_light.xml",
+        "source": "D:\\USER\\Desktop\\104_spring\\Software Studio\\Final_Project\\qksms-master\\QKSMS\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\color\\switch_thumb_material_light.xml"
+    },
+    {
+        "merged": "D:\\USER\\Desktop\\104_spring\\Software Studio\\Final_Project\\qksms-master\\QKSMS\\build\\intermediates\\res\\merged\\noAnalytics\\debug\\color\\abc_primary_text_material_light.xml",
+        "source": "D:\\USER\\Desktop\\104_spring\\Software Studio\\Final_Project\\qksms-master\\QKSMS\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\color\\abc_primary_text_material_light.xml"
+    },
+    {
+        "merged": "D:\\USER\\Desktop\\104_spring\\Software Studio\\Final_Project\\qksms-master\\QKSMS\\build\\intermediates\\res\\merged\\noAnalytics\\debug\\color\\switch_thumb_material_dark.xml",
+        "source": "D:\\USER\\Desktop\\104_spring\\Software Studio\\Final_Project\\qksms-master\\QKSMS\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\color\\switch_thumb_material_dark.xml"
+    },
+    {
+        "merged": "D:\\USER\\Desktop\\104_spring\\Software Studio\\Final_Project\\qksms-master\\QKSMS\\build\\intermediates\\res\\merged\\noAnalytics\\debug\\color\\text_primary_light.xml",
+        "source": "D:\\USER\\Desktop\\104_spring\\Software Studio\\Final_Project\\qksms-master\\QKSMS\\src\\main\\res\\color\\text_primary_light.xml"
+    },
+    {
+        "merged": "D:\\USER\\Desktop\\104_spring\\Software Studio\\Final_Project\\qksms-master\\QKSMS\\build\\intermediates\\res\\merged\\noAnalytics\\debug\\color\\abc_secondary_text_material_dark.xml",
+        "source": "D:\\USER\\Desktop\\104_spring\\Software Studio\\Final_Project\\qksms-master\\QKSMS\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\color\\abc_secondary_text_material_dark.xml"
+    }
+]

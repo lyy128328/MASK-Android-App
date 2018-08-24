@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "D:\\USER\\Desktop\\104_spring\\Software Studio\\Final_Project\\qksms-master\\QKSMS\\build\\intermediates\\res\\merged\\noAnalytics\\debug\\interpolator\\sb__decelerate_cubic.xml",
+        "source": "D:\\USER\\Desktop\\104_spring\\Software Studio\\Final_Project\\qksms-master\\QKSMS\\build\\intermediates\\exploded-aar\\com.nispok\\snackbar\\2.10.6\\res\\interpolator\\sb__decelerate_cubic.xml"
+    },
+    {
+        "merged": "D:\\USER\\Desktop\\104_spring\\Software Studio\\Final_Project\\qksms-master\\QKSMS\\build\\intermediates\\res\\merged\\noAnalytics\\debug\\interpolator\\sb__accelerate_cubic.xml",
+        "source": "D:\\USER\\Desktop\\104_spring\\Software Studio\\Final_Project\\qksms-master\\QKSMS\\build\\intermediates\\exploded-aar\\com.nispok\\snackbar\\2.10.6\\res\\interpolator\\sb__accelerate_cubic.xml"
+    }
+]

@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "D:\\USER\\Desktop\\104_spring\\Software Studio\\Final_Project\\qksms-master\\QKSMS\\build\\intermediates\\res\\merged\\noAnalytics\\debug\\drawable-v21\\button_background_transparent_light.xml",
+        "source": "D:\\USER\\Desktop\\104_spring\\Software Studio\\Final_Project\\qksms-master\\QKSMS\\src\\main\\res\\drawable-v21\\button_background_transparent_light.xml"
+    },
+    {
+        "merged": "D:\\USER\\Desktop\\104_spring\\Software Studio\\Final_Project\\qksms-master\\QKSMS\\build\\intermediates\\res\\merged\\noAnalytics\\debug\\drawable-v21\\button_background_transparent.xml",
+        "source": "D:\\USER\\Desktop\\104_spring\\Software Studio\\Final_Project\\qksms-master\\QKSMS\\src\\main\\res\\drawable-v21\\button_background_transparent.xml"
+    },
+    {
+        "merged": "D:\\USER\\Desktop\\104_spring\\Software Studio\\Final_Project\\qksms-master\\QKSMS\\build\\intermediates\\res\\merged\\noAnalytics\\debug\\drawable-v21\\sb__btn_bg.xml",
+        "source": "D:\\USER\\Desktop\\104_spring\\Software Studio\\Final_Project\\qksms-master\\QKSMS\\build\\intermediates\\exploded-aar\\com.nispok\\snackbar\\2.10.6\\res\\drawable-v21\\sb__btn_bg.xml"
+    }
+]

@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="D:\USER\Desktop\104_spring\Software Studio\Final_Project\EmojiChat-master\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.1\jars\libs\internal_impl-23.1.1.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="a4de9c81ae239414e1ed0f86441b02abaf29bca9">
+        <dex dex="D:\USER\Desktop\104_spring\Software Studio\Final_Project\EmojiChat-master\app\build\intermediates\pre-dexed\debug\internal_impl-23.1.1-305bb16f5355a975f48e39d8527a0901fe89491d.jar" />
+    </item>
+    <item
+        jar="D:\USER\Desktop\104_spring\Software Studio\Final_Project\EmojiChat-master\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="6cbc7773921fcfedbe55657578f0cbfe614778dc">
+        <dex dex="D:\USER\Desktop\104_spring\Software Studio\Final_Project\EmojiChat-master\app\build\intermediates\pre-dexed\debug\classes-d45c8686235e30e3e9f3ac02858b5879d7d6529a.jar" />
+    </item>
+    <item
+        jar="D:\USER\AppData\Local\Android\Sdk\extras\android\m2repository\com\android\support\support-annotations\23.1.1\support-annotations-23.1.1.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="8d680ba5a623724d1fb0e81c36a790f023a6cede">
+        <dex dex="D:\USER\Desktop\104_spring\Software Studio\Final_Project\EmojiChat-master\app\build\intermediates\pre-dexed\debug\support-annotations-23.1.1-f32064f45629a73db119d6562654be17935db2e2.jar" />
+    </item>
+    <item
+        jar="D:\USER\Desktop\104_spring\Software Studio\Final_Project\EmojiChat-master\app\build\intermediates\exploded-aar\com.rockerhieu.emojicon\library\1.3.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="f6a871e9addb8f2c2b8f1d5414c60a574d37fddb">
+        <dex dex="D:\USER\Desktop\104_spring\Software Studio\Final_Project\EmojiChat-master\app\build\intermediates\pre-dexed\debug\classes-b83592178e5142885faaf17efeb3b277ad87e168.jar" />
+    </item>
+    <item
+        jar="D:\USER\Desktop\104_spring\Software Studio\Final_Project\EmojiChat-master\app\build\intermediates\exploded-aar\EmojiChat-master\chat\unspecified\jars\libs\KJFrameForAndroid_v2.234.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="1a252f63e6e692c8ec85408c9bc75742c3c31b2e">
+        <dex dex="D:\USER\Desktop\104_spring\Software Studio\Final_Project\EmojiChat-master\app\build\intermediates\pre-dexed\debug\KJFrameForAndroid_v2.234-e1ef41a95fb7fe3d1c277ee9c61ffc1c189da59f.jar" />
+    </item>
+    <item
+        jar="D:\USER\Desktop\104_spring\Software Studio\Final_Project\EmojiChat-master\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.1.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="5c5699834e9722f1c288fea2de82725d078ba127">
+        <dex dex="D:\USER\Desktop\104_spring\Software Studio\Final_Project\EmojiChat-master\app\build\intermediates\pre-dexed\debug\classes-bbf787d6fe992b7756ad7a722e4c9e4e86cf4851.jar" />
+    </item>
+    <item
+        jar="D:\USER\Desktop\104_spring\Software Studio\Final_Project\EmojiChat-master\app\build\intermediates\exploded-aar\EmojiChat-master\chat\unspecified\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="9de8e74c62d619b5dd8a0e28f2318fd36b365152">
+        <dex dex="D:\USER\Desktop\104_spring\Software Studio\Final_Project\EmojiChat-master\app\build\intermediates\pre-dexed\debug\classes-d1987c6ba8402d685759ee1c0993280534951b2f.jar" />
+    </item>
+
+</items>

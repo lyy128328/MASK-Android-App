@@ -1,0 +1,15 @@
+<component name="libraryTable">
+  <library name="snackengage-0.4">
+    <ANNOTATIONS>
+      <root url="jar://$PROJECT_DIR$/QKSMS/build/intermediates/exploded-aar/org.ligi/snackengage/0.4/annotations.zip!/" />
+    </ANNOTATIONS>
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/QKSMS/build/intermediates/exploded-aar/org.ligi/snackengage/0.4/res" />
+      <root url="jar://$PROJECT_DIR$/QKSMS/build/intermediates/exploded-aar/org.ligi/snackengage/0.4/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.ligi/snackengage/0.4/3991042ddc03b1df4ab1e62afdacf5faf8fee2f2/snackengage-0.4-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

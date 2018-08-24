@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Q-municate_app/Q-municate_app.iml" filepath="$PROJECT_DIR$/Q-municate_app/Q-municate_app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Q-municate_core/Q-municate_core.iml" filepath="$PROJECT_DIR$/Q-municate_core/Q-municate_core.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Q-municate_db/Q-municate_db.iml" filepath="$PROJECT_DIR$/Q-municate_db/Q-municate_db.iml" />
+      <module fileurl="file://$PROJECT_DIR$/facebook/facebook.iml" filepath="$PROJECT_DIR$/facebook/facebook.iml" />
+      <module fileurl="file://$PROJECT_DIR$/q-municate-android-master.iml" filepath="$PROJECT_DIR$/q-municate-android-master.iml" />
+    </modules>
+  </component>
+</project>

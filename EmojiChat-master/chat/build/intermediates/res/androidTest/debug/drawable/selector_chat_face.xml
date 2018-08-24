@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector
+    xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:drawable="@drawable/icon_face_click" android:state_checked="false" android:state_pressed="true"/>
+    <item android:drawable="@drawable/icon_face_normal" android:state_checked="false" android:state_pressed="false"/>
+    <item android:drawable="@drawable/icon_keyboard_pressed" android:state_checked="true" android:state_pressed="true"/>
+    <item android:drawable="@drawable/icon_keyboard_nor" android:state_checked="true" android:state_pressed="false"/>
+</selector>
+<!-- From: file:/D:/USER/Desktop/104_spring/Software%20Studio/Final_Project/EmojiChat-master/chat/src/main/res/drawable/selector_chat_face.xml --><!-- From: file:/D:/USER/Desktop/104_spring/Software%20Studio/Final_Project/EmojiChat-master/chat/build/intermediates/bundles/debug/res/drawable/selector_chat_face.xml -->

@@ -1,0 +1,35 @@
+Chat
+
+Introduction
+QuickBlox Chat is a quick and reliable chat solution which combines benefits of scalable cloud hosted XMPP chat server, seamless Single Sign-On authorization via Users, incoming IM / chat alerts via Push Notifications and file attachments via Content. 
+
+Server
+Main server: chat.quickblox.com. 
+
+MUC (Multi Users Chat): muc.chat.quickblox.com. Important: users registration, authentication and removal must be done via Users API (and not XMPP). 
+
+Login / ID
+In order to login to chat you have to create a user. You can do it on QuickBlox dashboard or via API.
+
+
+Each user gets a JID (Jabber ID) in the following format:
+
+<user_id>-<app_id>@chat.quickblox.com 
+
+Password
+Your user¡¦s password for XMPP connection depends on what type of user authentication via Users you have applied for this particular user:
+
+standard login+password authentication: use same password
+Facebook/Twitter/Twitter Digits authentication: use session token as password:
+
+REST API
+Chat REST API provides an access to Chat history. We operate with 2 models: Chat Dialog and Chat Message.
+
+Dialog model
+Chat Dialog model describes a dialog entity between users (1-1 chat or group chat). Dialog can have custom parameters (described here)
+e.g. Type of dialog. Possible values: 1(PUBLIC_GROUP), 2(GROUP), 3(PRIVATE), Name of a group chat, Photo of a group chat, Last sent message in this dialog...
+
+Message model
+Chat Message model describes a chat message in a dialog 
+e.g. Message body, Message date sent, Message sender ID, Message recipient ID...
+
